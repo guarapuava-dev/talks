@@ -2,6 +2,18 @@
 Informações relevantes sobre as apresentações realizas em nossos encontros do grupo [Guarapuava Dev](https://www.meetup.com/pt-BR/Meetup-de-Desenvolvimento-de-Software-Guarapuava/).
 
 # 2018
+
+### 2° Encontro sobre desenvolvimento de software em Guarapuava
+
+Realizado em 09/11 na [UTFPR](http://portal.utfpr.edu.br/)
+
+| Palestra | Palestrante | Slides |
+|----------|-------------|--------|
+| **Manifesto for Agile Software Development** | [![Github](https://img.shields.io/badge/Github-@programadormarin-blue.svg)](https://github.com/programadormarin) | [![Slideshare](https://img.shields.io/badge/slides-Slideshare-brightgreen.svg)](#) |
+| **Deixando sua aplicação Laravel mais rápida** | [![Github](https://img.shields.io/badge/Github-@danilopinotti-blue.svg)](https://github.com/danilopinotti) | [![Slideshare](https://img.shields.io/badge/slides-Slideshare-brightgreen.svg)](#) |
+| **Sistema de repetição espaçada: como você pode usar essa técnica no aprendizado de inglês** | [![Github](https://img.shields.io/badge/Github-@renangabriel27-blue.svg)](https://github.com/renangabriel27) | [![Slideshare](https://img.shields.io/badge/slides-Slideshare-brightgreen.svg)](#) |
+| **PHP criticism - Conhecendo os problemas da linguagem** | [![Github](https://img.shields.io/badge/Github-@jhonndabi-blue.svg)](https://github.com/jhonndabi) | [![Slideshare](https://img.shields.io/badge/slides-Slideshare-brightgreen.svg)](#) |
+
 ### 1° Encontro sobre desenvolvimento de software em Guarapuava
 
 Realizado em 10/08 na [Faculdade Guairacá](https://www.guairaca.com.br/)
