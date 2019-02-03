@@ -11,7 +11,7 @@ Realizado em 09/11 na [UTFPR](http://portal.utfpr.edu.br/)
 |----------|-------------|--------|
 | **Manifesto for Agile Software Development** | [![Github](https://img.shields.io/badge/Github-@programadormarin-blue.svg)](https://github.com/programadormarin) | [![Slideshare](https://img.shields.io/badge/slides-Slideshare-brightgreen.svg)](#) |
 | **Deixando sua aplicação Laravel mais rápida** | [![Github](https://img.shields.io/badge/Github-@danilopinotti-blue.svg)](https://github.com/danilopinotti) | [![Slideshare](https://img.shields.io/badge/slides-Slideshare-brightgreen.svg)](#) |
-| **Sistema de repetição espaçada: como você pode usar essa técnica no aprendizado de inglês** | [![Github](https://img.shields.io/badge/Github-@renangabriel27-blue.svg)](https://github.com/renangabriel27) | [![Slideshare](https://img.shields.io/badge/slides-Slideshare-brightgreen.svg)](#) |
+| **Sistema de repetição espaçada: como você pode usar essa técnica no aprendizado de inglês** | [![Github](https://img.shields.io/badge/Github-@renangabriel27-blue.svg)](https://github.com/renangabriel27) | [![slides.com](https://img.shields.io/badge/slides-slides.com-brightgreen.svg)](http://slides.com/renanthompsom/srs#/) |
 | **PHP criticism - Conhecendo os problemas da linguagem** | [![Github](https://img.shields.io/badge/Github-@jhonndabi-blue.svg)](https://github.com/jhonndabi) | [![Slideshare](https://img.shields.io/badge/slides-Slideshare-brightgreen.svg)](#) |
 
 ### 1° Encontro sobre desenvolvimento de software em Guarapuava
